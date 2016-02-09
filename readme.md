@@ -6,8 +6,8 @@ I love finding techncal solutions to problems. Learning and coding has become an
 This repository contains my projects, creations, and programming challenges that I solved. MS
 
 #### HTML & CSS
-1. Built a login page using HTML
-2. Built CSS Animation
-3. 
+*Built a login page using HTML
+*Built CSS Animation
+ 
 #### Python
 * Item 1
