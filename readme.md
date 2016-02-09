@@ -20,10 +20,8 @@ This repository contains my projects, creations, and programming challenges that
 
 #### C#
 
-
-Live-Project after C# course
+#### Meetups
 * Code for San Francisco - Map Project
-* Meetups
 
 #### Hackathons
 
