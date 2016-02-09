@@ -9,5 +9,21 @@ This repository contains my projects, creations, and programming challenges that
 * Built a login page using HTML
 * Built CSS Animation
  
+#### SQL Database
+* Built a Community Library Database Drill
+
+#### JavaScript
+* Built a script to create a slide show of images of the solar system
+
 #### Python
-* Item 1
+* Building a SQLite database with Python
+
+#### C#
+
+
+Live-Project after C# course
+* Code for San Francisco - Map Project
+* Meetups
+
+#### Hackathons
+
