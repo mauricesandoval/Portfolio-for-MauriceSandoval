@@ -18,7 +18,9 @@ This repository contains my projects, creations, and programming challenges that
 #### Python
 * Building a SQLite database with Python
 
-#### C\#
+#### C\# 
+* Next course after Python
+* Test
 
 #### Meetups
 * Code for San Francisco - Map Project
